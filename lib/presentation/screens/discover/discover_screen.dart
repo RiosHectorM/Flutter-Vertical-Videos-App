@@ -7,7 +7,7 @@ class DiscoverScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('Discover Screen'),
+        child: Text('Discover Screen2'),
       ),
     );
   }
